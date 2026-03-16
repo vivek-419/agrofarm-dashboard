@@ -3,7 +3,7 @@
 This repository contains the interactive dashboard for **AgroFarm Analytics**, a data-driven approach to livestock tracking and management using IoT sensors. This dashboard was developed as part of Case Study 39 (Business Studies · Semester IV) to evaluate the financial feasibility, behavioral patterns, and productivity impact of migrating from a manual monitoring system to an automated IoT stack.
 
 ## Live Demo
-*Link to Streamlit Deployment will go here once deployed*
+https://agrofarm-dashboard-qjfzljazld54fnh4hg8jfu.streamlit.app/
 
 ## Overview
 The AgroFarm IoT Dashboard leverages stream processing and machine learning models to identify actionable insights from a cattle herd of 2,000 animals. The platform addresses several key aspects:
